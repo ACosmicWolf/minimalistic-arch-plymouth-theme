@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=minimalistic-arch
+Description=minimalistic arch theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/minimalistic-arch
+ScriptFile=/usr/share/plymouth/themes/archcraft/minimalistic-arch.script

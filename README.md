@@ -1,1 +1,1 @@
-# minimalistic-arch-plymouth-theme
+# Minimalistic Arch
